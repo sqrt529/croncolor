@@ -1,0 +1,5 @@
+croncolor.pl - Prints colorized crontab from stdin
+
+Usage: crontab -l | ./croncolor.pl
+
+To see the output colorized within 'less', use the '-r' option (less -r)
